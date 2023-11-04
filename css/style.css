@@ -1,0 +1,82 @@
+*{
+    padding: 0; margin: 0;
+}
+
+
+.header {
+    display: flex;
+    margin-bottom: 80px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+    
+}
+.menu a {
+    color:#34547A ;
+    list-style-type: none;
+    padding-left: 20px;
+text-decoration: none;
+}
+
+.top {
+    display: flex;
+    margin-left: 20%;
+    justify-content: space-between;
+}
+.wrap-top {
+    background: #EEEFF1;
+}
+.botton {
+    display: flex;
+    margin-top:30px;
+  align-items: center;
+  justify-content: center;
+    width: 190px;
+    height: 55px;
+    background: #34547A;
+    color: #fff;
+}
+.text {
+
+    margin-left: 50px;
+}
+.tex {
+    margin-bottom: 30px;
+    text-align: center;
+    color: #000;
+}
+.wrap {
+    background: #EEEFF1;
+}
+.project {
+    display:flex;
+    background: #34547A;
+    justify-content:space-between;
+    
+
+}
+.about {
+    color: #000;
+    margin-bottom: 30px;
+}
+.par {
+    margin-bottom: 30px;
+    color: #727272;
+}
+.skills-photo {
+    display: flex;
+    background: #E5E5E5;
+    justify-content: space-between;
+}
+.work {
+    background: #EEEFF1;
+}
